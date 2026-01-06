@@ -1,7 +1,5 @@
 # Kalman-Filtered Trend Trader: A Deep Reinforcement Learning Agent for Portfolio Optimization – Weeks 1 & 2
 
-**Author:** Balaaditya Matcha
-
 ---
 
 ## Overview
